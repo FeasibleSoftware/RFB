@@ -15,7 +15,7 @@ This project is completed in [Skoltech](https://www.skoltech.ru/en/) as a part o
  
  # How to collaborate
  If you would like to test this package or help with further development you can contact any of the following persons:
- * [Keith Stevenson](https://faculty.skoltech.ru/people/keithstevenson) K.Stevenson@skoltech.ru (although he might be a little busy)
+ * [Keith Stevenson](https://faculty.skoltech.ru/people/keithstevenson) K.Stevenson@skoltech.ru (although he might be really busy)
  * Mikhail Pugach (lead scientist) mikhail.pugach@skolkovotech.ru or +7(967)040-64-01 (whatsapp)
  * Igor Panin (developer) igorpanin10@gmail.com or +7(901)793-67-82 (whatsapp, viber, telegram)
  * Alexander Ryzhov (scientist) A.Ryzhov@skoltech.ru or +7(963)696-73-13 (whatsapp)
